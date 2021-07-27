@@ -694,6 +694,13 @@ function autoPromote() {
     if (requirement.isCompleted()) gameData.currentJob = nextEntity
 }
 
+function autoShop() {
+    if (!autoShopElement.checked) return
+    var nextPurchase = "stuff"
+    if (nextPurchase == null) return
+    return
+}
+
 function setSkillWithLowestMaxXp() {
     var xpDict = {}
 
