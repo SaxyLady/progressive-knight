@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
 .w3-bar-item {
     width: 100px;
     height: 40px;
@@ -138,4 +142,12 @@ button:focus {
 
 .inline {
     display: inline-block;
+}
+
+.panel {
+    background-color: white;
+}
+
+.small-margin  {
+    margin-bottom: 2px;
 }
