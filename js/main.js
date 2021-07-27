@@ -34,6 +34,7 @@ var skillWithLowestMaxXp = null
 
 const autoPromoteElement = document.getElementById("autoPromote")
 const autoLearnElement = document.getElementById("autoLearn")
+const autoShopElement = document.getElementById("autoShop")
 
 const updateSpeed = 20
 
